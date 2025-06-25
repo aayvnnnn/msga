@@ -1,0 +1,17 @@
+{
+  "name": "msga",
+  "version": "1.0.0",
+  "description": "Make Sentences Great Again.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Aayan",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^16.5.0"
+  }
+}
